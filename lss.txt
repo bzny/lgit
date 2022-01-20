@@ -1,3 +1,4 @@
 lsss
 qcii
 print('hello world')
+say 'ok'
